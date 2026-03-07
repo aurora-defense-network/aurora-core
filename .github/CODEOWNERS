@@ -1,8 +1,7 @@
-# Default reviewers
 * @aurora-defense-network/core-maintainers
 
-# Security sensitive areas
 /pki/ @aurora-defense-network/core-maintainers @aurora-defense-network/security
 /routing/ @aurora-defense-network/core-maintainers @aurora-defense-network/security
 /detection/ @aurora-defense-network/core-maintainers @aurora-defense-network/security
 /api/ @aurora-defense-network/core-maintainers @aurora-defense-network/security
+/.github/workflows/ @aurora-defense-network/security
